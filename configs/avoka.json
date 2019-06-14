@@ -2,6 +2,12 @@
   "index_name": "avoka",
   "start_urls": [
     {
+      "url": "https://docs.avoka.com/sdk/v1905",
+      "tags": [
+        "v1905"
+      ]
+    },
+    {
       "url": "https://docs.avoka.com/sdk/v1811",
       "tags": [
         "v1811"
